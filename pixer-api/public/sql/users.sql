@@ -1,0 +1,3 @@
+INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `is_active`, `shop_id`) VALUES
+(1, 'admin', 'vendor@demo.com', NULL, '$2y$10$zl1gWpOujA6lARlGbP6ZpOvops76lv9c46rZCCKR/l6.ZbNS6pxwa', NULL, '2022-01-20 15:24:42', '2022-01-20 15:24:42', 1, NULL),
+(3, 'Customer', 'customer@demo.com', NULL, '$2y$10$Th4h9IBHPhtgeY7AAz5ZtOLrCT.EEXjnP.r/YiKXQyrv4uWOwBHeu', NULL, '2022-02-02 11:00:07', '2022-02-02 11:00:07', 1, NULL)

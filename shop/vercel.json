@@ -1,0 +1,14 @@
+{
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "put your hosted api endpoint here",
+    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "put your stripe publishable key here",
+    "NEXT_PUBLIC_WEBSITE_URL": "put your website url here"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "put your hosted api endpoint here",
+      "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "put your stripe publishable key here",
+      "NEXT_PUBLIC_WEBSITE_URL": "put your website url here"
+    }
+  }
+}
